@@ -1258,7 +1258,7 @@ public class RECIPES_GREGTECH {
 					FluidUtils.getFluidStack("sulfuriclithium", 10000),
 					new ItemStack[] { 
 							ItemUtils.getItemStackOfAmountFromOreDict("dustPotassium", 1),
-							ItemUtils.getItemStackOfAmountFromOreDict("dustAluminium", 4),
+							ItemUtils.getItemStackOfAmountFromOreDict("dustAluminiumoxide", 4),
 							ItemUtils.getItemStackOfAmountFromOreDict("cellOxygen", 10),
 							ItemUtils.getItemStackOfAmountFromOreDict("cellFluorine", 2),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustLithiumCarbonate", 3), // LithiumCarbonate
@@ -1363,7 +1363,7 @@ public class RECIPES_GREGTECH {
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyTin", 1),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyNickel", 1),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyCobalt", 1),
-							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyAluminium", 1),
+							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyAluminiumoxide", 1),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinySilver", 1),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyGold", 1),
 							ItemUtils.getItemStackOfAmountFromOreDict("dustTinyIridium", 1) },

@@ -26,8 +26,8 @@ public final class ELEMENT {
 	public final Material NEON = new Material("Neon", MaterialState.GAS, new short[]{255, 255, 255}, -248, -246, 10, 10, false, "Ne", 0);//Not a GT Inherited Material
 	public final Material SODIUM = MaterialUtils.generateMaterialFromGtENUM(Materials.Sodium);
 	public final Material MAGNESIUM = MaterialUtils.generateMaterialFromGtENUM(Materials.Magnesium);
-	public final Material ALUMINIUM = MaterialUtils.generateMaterialFromGtENUM(Materials.Aluminium);
-	public final Material SILICON = MaterialUtils.generateMaterialFromGtENUM(Materials.Silicon);
+	public final Material ALUMINIUM = MaterialUtils.generateMaterialFromGtENUM(Materials.Aluminiumoxide);
+	public final Material SILICON = MaterialUtils.generateMaterialFromGtENUM(Materials.SiliconDioxide);
 	public final Material PHOSPHORUS = MaterialUtils.generateMaterialFromGtENUM(Materials.Phosphor);
 	public final Material SULFUR = MaterialUtils.generateMaterialFromGtENUM(Materials.Sulfur);
 	public final Material CHLORINE = MaterialUtils.generateMaterialFromGtENUM(Materials.Chlorine);
