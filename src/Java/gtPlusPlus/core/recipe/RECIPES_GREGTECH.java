@@ -2290,7 +2290,7 @@ public class RECIPES_GREGTECH {
 				ELEMENT.getInstance().NITROGEN.getFluid(4000),
 				GT_Values.NF,
 				ItemUtils.getItemStackOfAmountFromOreDict("dustGraphite", 8),
-				ItemUtils.getItemStackOfAmountFromOreDict("dustSmallSilicon", 8),
+				ItemUtils.getItemStackOfAmountFromOreDict("dustSmallSiliconoxide", 8),
 				60 * 20,
 				MaterialUtils.getVoltageForTier(GTNH ? 5 : 4),
 				4500);
